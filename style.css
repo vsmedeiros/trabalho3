@@ -104,6 +104,7 @@ header nav ul li a {
     background-color: grey;
     padding: 1rem;
     width: 100%;
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.4);
 }
 
 .card-content {
